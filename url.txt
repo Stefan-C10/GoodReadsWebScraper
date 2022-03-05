@@ -1,0 +1,5 @@
+Base:https://www.goodreads.com/book/show/
+Query_Start:
+Query_Information_1:89187
+Query_Separator:. OR -
+Query_Information_2:Revelation_Space
